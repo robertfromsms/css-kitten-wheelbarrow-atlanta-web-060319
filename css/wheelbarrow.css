@@ -24,7 +24,7 @@ img {
 #wheelbarrow {
   position: relative;
   background: url(../images/wheelbarrow.png) no-repeat;
-  z-index: 9;
+  z-index: 0;
   top: 220px;
 }
 #wheelbarrow-foreground {
